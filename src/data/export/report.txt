@@ -1,0 +1,27 @@
+=== STUDENT REPORT ===
+Generated: 2025-09-24T20:28:21.920554500
+
+Student: Abhigyan Sinha (24BCE11086)
+Email: abhigyan.24bce11086@vitbhopal.ac.in
+GPA: 9.57
+Credits: 7
+Courses: 2
+
+Student: Tom Holland (24BAM10002)
+Email: tom.holland@uni.edu
+GPA: 0.00
+Credits: 0
+Courses: 0
+
+Student: Lightning McQueen (24BAM10003)
+Email: lightning.mcqueen@uni.edu
+GPA: 0.00
+Credits: 0
+Courses: 0
+
+Student: Tom Simons (24BAM10004)
+Email: tom.simons@uni.edu
+GPA: 0.00
+Credits: 0
+Courses: 0
+

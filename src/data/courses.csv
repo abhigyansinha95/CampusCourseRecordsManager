@@ -1,0 +1,5 @@
+code,title,credits,instructor,semester,department,active
+CSE1001,Introduction to Programming,3,Dr. A,INTERIM,Computer Science,true
+MAT2001,Linear Algebra,4,Dr. B,INTERIM,Mathematics,true
+PHYS1001,Physics I,4,Dr. C,INTERIM,Physics,true
+ENG1001,English Composition,3,Dr. D,INTERIM,English,true
