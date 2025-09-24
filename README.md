@@ -118,7 +118,7 @@ code .
 
 1. Ctrl+Shift+P → "Java: Configure Java Runtime"
 
-2. Select JDK 17+ as the runtime
+2. Select JDK 25 as the runtime
 
 3. VS Code will automatically detect the project structure
 
@@ -136,7 +136,7 @@ java edu.ccrm.cli.Main
 
 ### Requirements Mapping Table
 
-![VS Code Project Structure](screenshots\table2.png)
+![Requirements Mapping Tables](screenshots\table2.png)
 
 ### Enabling Assertions
 ```bash
