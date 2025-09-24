@@ -53,11 +53,8 @@ java edu.ccrm.cli.Main
 2023: Java 21 (LTS) - Virtual threads, pattern matching enhancements
 
 ### Java  Platform Comparison
-Aspect	       Java ME           Java SE              Java EE
-Target	       Mobile devices	 Desktop apps	       Enterprise systems
-Scope	       Limited API	     Standard library	   Extended enterprise
-Use Case	   Embedded systems  Standalone apps       Web applications
-This Project   Doesnt Support    Supports              Doesnt Suports
+
+![Java Platform Comparison](screenshots\table1.png)
 
 ### Java Architecture
 
@@ -139,21 +136,7 @@ java edu.ccrm.cli.Main
 
 ### Requirements Mapping Table
 
-Syllabus Topic	                          File/Class/Method	                            Demonstration
-OOP Pillars	                              Person.java, Student.java	                    Inheritance, Encapsulation, Polymorphism
-Abstract Classes	                      Person.java	                                Abstract methods and classes
-Interfaces	                              Searchable.java	                            Functional interface implementation
-Enums	                                  Semester.java, Grade.java	                    Enum with constructors and methods
-Design Patterns	                          AppConfig.java, Course.java	                Singleton and Builder patterns
-Stream API	                              StudentService.java, CourseService.java	    Filtering, mapping, collection operations
-Lambda Expressions	                      CLIMenu.java                                  search functionality	Functional programming
-Exception Handling	                      DuplicateEnrollmentException.java	            Custom exceptions, try-catch blocks
-NIO.2 File Operations	                  ImportExportService.java	                    Files.lines(), Path operations
-Recursion	                              BackupService.java calculateDirectorySize()	Recursive file system traversal
-Date/Time API	                          Enrollment.java	                            LocalDateTime usage
-Switch Statements	                      CLIMenu.java	                                Traditional and enhanced switch
-Loops	                                  CLIMenu.java	                                while, do-while, for, enhanced for
-Jump Controls	                          CLIMenu.java	                                break, continue, labeled jumps
+![VS Code Project Structure](screenshots\table2.png)
 
 ### Enabling Assertions
 ```bash
